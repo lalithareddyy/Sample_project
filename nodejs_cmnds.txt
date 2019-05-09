@@ -1,0 +1,34 @@
+Nodejs commands
+
+node -v -->it will display version of node js
+npm -v -->node package module(version)
+node file.js -->To run the file
+
+For creating server --> createServer()[method]
+If we need to include any HTTP module,use --> require()
+
+
+Xml parsing with Nodejs:
+-->var.parseString = require(" ").parseString
+   /*xml file 
+   ----------
+   ----------
+   
+
+Need to do parsing xml-file using Node.js.
+
+Using a library for parsing xml2js.
+
+Xml2js installed using the command "npm install xml2js".
+
+https://www.youtube.com/watch?v=TlB_eWDSMt4 -->basics
+
+https://developer.github.com/v3/pulls/
+
+https://stackoverflow.com/questions/17383217/clone-from-a-branch-other-than-master
+
+http://programmerblog.net/parse-xml-using-nodejs/
+
+https://stackoverflow.com/questions/23625727/node-js-cannot-find-module-xml2js-windows
+
+https://www.google.com/search?q=the+NODEJS+XML+parsing+and+updating+in+API&rlz=1C1GCEA_enIN846IN846&oq=the+NODEJS+XML+parsing+and+updating+in+API&aqs=chrome..69i57.1368j0j7&sourceid=chrome&ie=UTF-8
